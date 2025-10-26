@@ -1,93 +1,26 @@
-📡 CCTV Explorer by Paan
-https://img.shields.io/badge/Python-3.6+-blue.svg
-https://img.shields.io/badge/License-MIT-green.svg
+CCTV Explorer by Paan
+Aplikasi sederhana untuk buka CCTV online dari berbagai kota di Indonesia.
 
-🎯 Tentang Proyek
-CCTV Explorer by Paan adalah aplikasi Python yang memudahkan Anda mengakses CCTV live dari berbagai kota di Indonesia melalui satu platform terintegrasi. Dengan antarmuka yang user-friendly dan navigasi yang intuitif, Anda dapat dengan cepat menemukan dan membuka stream CCTV dari kota-kota besar hingga daerah di seluruh Indonesia.
+Fitur
+Akses CCTV 50+ kota di Indonesia
 
-✨ Fitur Utama
-🏙️ Koleksi Lengkap - Akses CCTV dari 50+ kota di Indonesia
+Tampilan simple dan mudah dipakai
 
-🎨 Antarmuka Menarik - Tampilan colorful dengan animasi dan efek visual
+Buka langsung di browser
 
-⚡ Akses Cepat - Buka langsung CCTV di browser dengan satu klik
+Cara Pakai
+Run program: python cctv_explorer.py
 
-🔍 Pencarian Mudah - Daftar kota terorganisir dalam format kolom
+Pilih kota dari list yang tersedia
 
-🎯 User-Friendly - Navigasi sederhana dengan prompt yang jelas
+Link CCTV akan terbuka di browser
 
-🌈 Pengalaman Visual - Efek mengetik, loading animation, dan warna terminal
+Kota Tersedia
+Jakarta, Surabaya, Bandung, Bali, Medan, Makassar, dan 40+ kota lainnya.
 
-🚀 Cara Menggunakan
-Jalankan aplikasi:
+Teknis
+Python 3
 
-bash
-python cctv_explorer.py
-Pilih opsi:
+Module: webbrowser, time, os
 
-Masukkan 1 untuk memilih kota
-
-Masukkan 2 untuk keluar
-
-Masukkan nama kota yang ingin dilihat CCTV-nya
-
-Konfirmasi untuk membuka link di browser
-
-📋 Daftar Kota Tersedia
-Aplikasi ini mendukung 50+ kota termasuk:
-
-Jakarta, Surabaya, Bandung, Yogyakarta, Bali
-
-Medan, Makassar, Semarang, Denpasar, Malang
-
-Kota-kota besar lainnya di seluruh Indonesia
-
-🛠️ Teknologi
-Python 3.6+
-
-Modul webbrowser untuk akses browser
-
-Modul time untuk animasi
-
-Modul os untuk manipulasi terminal
-
-ANSI Color Codes untuk tampilan berwarna
-
-📁 Struktur Kode
-text
-cctv_explorer.py
-├── cctv_urls (Dictionary 50+ kota)
-├── print_header() - Tampilan header
-├── typewriter_effect() - Efek mengetik
-├── animate_loading() - Animasi loading
-├── show_kota_available() - Daftar kota
-└── get_cctv_link() - Fungsi utama
-⚡ Quick Start
-python
-# Clone dan jalankan
-python cctv_explorer.py
-🎨 Preview
-text
-==========================================================
-🛰️           CCTV EXPLORER BY PAAN           🛰️
-==========================================================
-
-Selamat datang di CCTV Explorer by Paan!
-Aplikasi untuk mengakses CCTV live dari berbagai kota di Indonesia
-
-Daftar Kota yang Tersedia:
---------------------------------------------------
-📍 Jakarta    📍 Surabaya     📍 Bandung     
-📍 Yogyakarta 📍 Bali         📍 Medan       
-... [dan seterusnya]
-💡 Catatan
-Pastikan koneksi internet tersedia
-
-Beberapa CCTV mungkin memerlukan waktu loading
-
-Aplikasi optimal di terminal yang support ANSI colors
-
-👨‍💻 Developer
-Dibuat dengan ❤️ oleh Paan
-
-"Exploring Indonesia, one CCTV at a time" 🌏
+Program by Paan - Tools simpel buat akses CCTV kota-kota Indonesia.
