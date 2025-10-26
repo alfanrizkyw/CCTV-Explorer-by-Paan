@@ -16,13 +16,13 @@ A simple application for accessing online CCTV from various cities in Indonesia.
 
 - The CCTV link will open in the browser
 
-𖦹 Available Cities
+𖦹 Available Cities :
 Jakarta, Surabaya, Bandung, Bali, Medan, Makassar, and 40+ other cities.
 
-𖦹 Technical
+𖦹 Technical :
 
 Python 3
 
-𖦹 Module: webbrowser, time, os
+𖦹 Module : webbrowser, time, os
 
 Program by Paan - Simple tool for accessing CCTV from cities in Indonesia.
