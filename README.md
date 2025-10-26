@@ -10,6 +10,8 @@ A simple application for accessing online CCTV from various cities in Indonesia.
 - Open directly in a browser
 
 𖦹 How to Use
+- Download CCTV.py (RAW)
+
 - Run the program: python cctv_explorer.py
 
 - Select a city from the available list
