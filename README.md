@@ -20,7 +20,6 @@ A simple application for accessing online CCTV from various cities in Indonesia.
 Jakarta, Surabaya, Bandung, Bali, Medan, Makassar, and 40+ other cities.
 
 𖦹 Technical :
-
 Python 3
 
 𖦹 Module : webbrowser, time, os
