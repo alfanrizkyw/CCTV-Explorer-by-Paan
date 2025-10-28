@@ -1,29 +1,52 @@
-CCTV Explorer by Paan
+### 📡 CCTV Explorer by Paan
 
-A simple application for accessing online CCTV from various cities in Indonesia.
+A simple yet powerful tool to access live CCTV feeds from various cities across Indonesia. Perfect for quick access to public CCTV cameras from your browser.
 
-𖦹 Features
-- Access CCTV from 50+ cities in Indonesia
+### 𖦹 Features
 
-- Simple and easy-to-use interface
+🌍 Access CCTV from 50+ cities across Indonesia
 
-- Open directly in a browser
+🔗 Simple & Intuitive interface, easy to use
 
-𖦹 How to Use
-- Download CCTV.py (RAW)
+🌐 Directly opens the CCTV feed in your browser
 
-- Run the program: python cctv_explorer.py
+📍 List of available cities growing constantly
 
-- Select a city from the available list
+### 𖦹 How to Use
 
-- The CCTV link will open in the browser
+Download the CCTV.py (RAW)
+ file
 
-𖦹 Available Cities :
-Jakarta, Surabaya, Bandung, Bali, Medan, Makassar, and 40+ other cities.
+Open your terminal/command prompt and navigate to the folder where the file is located
 
-𖦹 Technical :
-Python 3
+Choose a city from the list of available cities
 
-𖦹 Module : webbrowser, time, os
+The CCTV feed will open directly in your default browser
 
-Program by Paan - Simple tool for accessing CCTV from cities in Indonesia.
+### 𖦹 Available Cities
+
+Jakarta
+
+Surabaya
+
+Bandung
+
+Bali
+
+Medan
+
+Makassar
+
+Plus 40+ other cities!
+
+### 𖦹 Technical Information
+
+🖥️ Written in Python 3
+
+🔧 Modules used: webbrowser, time, os
+
+𖦹 About
+
+This program, created by Paan, is designed to provide a quick and easy way to access live CCTV feeds from major cities in Indonesia. It's simple, efficient, and effective.
+
+🚀 Enjoy exploring live CCTV feeds!
